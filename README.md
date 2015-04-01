@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Axios-Engineering/gov.redhawk.codegen.svg?branch=develop-2.0)](https://travis-ci.org/Axios-Engineering/gov.redhawk.codegen)
 # REDHAWK Eclipse Code Generator
  
 ## Description
